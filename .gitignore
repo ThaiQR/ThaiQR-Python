@@ -1,0 +1,7 @@
+__pycache__/
+.conda/
+.dist/
+build/
+dist/
+test/
+.vscode/
